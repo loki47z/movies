@@ -1,4 +1,4 @@
-const API_KEY = "http://www.omdbapi.com/?i=tt3896198&apikey=7bb39f84"
+const API_KEY = "https://www.omdbapi.com/?i=tt3896198&apikey=7bb39f84"
 const searchBtn = document.getElementById("searchBtn")
 
 async function searchMovies() {
